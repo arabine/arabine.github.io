@@ -87,8 +87,8 @@ experiences:
       company: D8S EURL, Limalonges, France
       details: |
         Development of multiple Qt tools and software using QML or QWidgets. Helped start-ups to release their IoT device by producing good firmware.
-          - Bullet point
-          - Bullet point
+          - ARM Cortex-M4 / Arduino / Raspberry PI expert. Sensors integration, device driver, low leveing programming
+          - QT/QML: various embedded, kiosk and desktop applications for Industrial and entertainment customers
     - role: Firmware leader
       time: 2010-2017
       company: Itron, Poitiers
@@ -100,7 +100,7 @@ experiences:
       company: Enerdis - Chauvin-Arnoux Group, Paris
       details: |
         Development of power monitors, data loggers and process transducers. Very good knowledge of network topologies and metrology computing.
-          - Métrologie
+          - Metrology
           - DSP
 
 projects:
