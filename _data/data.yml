@@ -27,59 +27,36 @@ sidebar:
 
     languages:
       - idiom: Français
-        level: Langue Maternelle
+        level: Native
 
       - idiom: Anglais
-        level: Professionnel
+        level: Professionnal
 
       - idiom: Spanish
         level: notions
 
     interests:
-      - item: Plongée sous-marine
+      - item: Diving
         link:
 
       - item: Snowboard
         link:
 
-      - item: Science-Fiction
+      - item: Science-Fiction (books, cinema)
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Je suis développement embarqué C/C++ depuis 2004 et en Freelance depuis 2018. Passionné 
-      de code et d'informatique en général, je m'intéresse à tous les secteurs du code informatique.
-      
-      Durant mon glorieux passé de salarié, j'ai développé du code à tous les étages : 
-      du bas niveau, de la librairie, des logiciels PC/Linux/Mac/Android, du serveur back/front-end ... mes atouts sont ma culture technique en général et mon large panel de 
-      savoir faire. Ceci me permet de créer des ponts entre les différents mondes de la programmation et prendre les bonnes idées d'architectures 
-      logicielles là où elles sont.
-      
-      Je peux travailler pour vous !
-#education:
-    #- degree: MSc in Computer Science
-      #university: University of London
-      #time: 2011 - 2012
-      #details: |
-        #Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #pretium quis, sem.
-          #- Bullet point
-          #- Bullet point
-    #- degree: BSc in Applied Mathematics
-      #university: Bristol University
-      #time: 2007 - 2011
-      #details: |
-        #Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #pretium quis, sem.
-          #- Bullet point
-          #- Bullet point
+      I'm a C/C++ developer, mainly embedded and Qt/QML. I'm freelancer since 2018, before that I worked in electricity meters (firmware + R&D tools).
+      I'm also deeply interested in all aspects of computer programming, especially Web technologies: there are multiple bridges between languages.
+      I have also developed some Android applications, in Qt of course! Depending of the project, I can work with alternative GUI frameworks such as LVGL or ImGUI.
+      My key skills are:
+        - Very good computer engineering culture
+        - hability to mix technologies
+        - software static/dynamic architecture
+            
+      I can work for you! Here is my corporate website: https://www.d8s.eu
 
 experiences:
     - role: Freelance developer
@@ -92,7 +69,7 @@ experiences:
     - role: Firmware leader
       time: 2010-2017
       company: Itron, Poitiers
-      details: |
+      details:
         Development of several meters based on DLMS/Cosem protocol. Firmware design (UML/C++) on microcontroller (ARM Cortex-M) 
         and management of a team of developers. Experienced in system use cases and certification processes (MID, Cosem Test Tool, utility test tools)
     - role: Firmware developer
@@ -106,12 +83,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      J'ai créé les projets suivants, tous Open Source et libres. Vous pouvez regarder mon code !
+      I have multiple open source projects. Check my code: https://github.com/arabine
     assignments:
       - title: ICL - Independant C++ library
         link: "https://github.com/brasserie/icl"
-        tagline: "Une collection de classes utilitaires en C++ que je promène dans tous les projets professionnels."
+        tagline: "Network, JSON, various C++ missing utility classes."
+      - title: TarotClub - Tarot card game
+        link: "https://tarotclub.fr"
+        tagline: "French Tarot card game (itch.io/Steam/Multiplayer)."
+      - title: Open Story Teller
+        link: "https://github.com/OpenStoryTeller"
+        tagline: "An Open Source story teller box for children (firmware/Qt software/electronics)."
 
+      
 
 #publications:
     #title: Publications
@@ -136,23 +120,23 @@ projects:
         #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Compétences &amp; Savoirs
+    title: Skills &amp; Knowledge
 
     toolset:
       - name: C/C++/Qt/QML
         level: 90%
 
-      - name: Embarqué/RTOS/ARM/Cortex-M3/RISC-V/AVR/Arduino/Raspberry
+      - name: Embedded/RTOS/ARM/Cortex-M3/RISC-V/AVR/Arduino/Raspberry
         level: 90%
         
-      - name: Programmation système Linux / drivers / Buildroot
+      - name: System programming in C Linux / drivers / Buildroot
         level: 80%
         
       - name: Javascript/Vue.js/Node.js/CSS
         level: 75%
 
-      - name: Électronique numérique/analogique
+      - name: Electronics digital/analog
         level: 60%
 
 footer: >
-    N'oubliez pas d'aller voir mon site corpo :  <a href="https://www.d8s.eu" target="_blank" rel="nofollow">D8S EURL</a>
+    Corporate website:  <a href="https://www.d8s.eu" target="_blank" rel="nofollow">D8S EURL</a>
