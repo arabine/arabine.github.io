@@ -45,6 +45,19 @@ sidebar:
       - item: Science-Fiction (books, cinema)
         link:
 
+education:
+    title: Education
+    info:
+      - degree: DESS Systèmes électroniques
+        university: Orsay, Paris XI
+        time: 2002 - 2003
+      - degree: Licence et Maîtrise G.E.I.I.
+        university: I.U.P. de Cachan
+        time: 2000 - 2001
+      - degree: DUT Génie Électrique et Informatique Industrielle
+        university: I.U.T. de Nantes
+        time: 2018 - 2000
+        
 career-profile:
     title: Career Profile
     summary: |
@@ -61,26 +74,33 @@ career-profile:
       I can work for you! Here is my corporate website: <a href="https://www.d8s.eu" target="_blank" rel="nofollow">D8S EURL</a>
 
 experiences:
-    - role: Freelance developer
-      time: 2018 - Present
-      company: D8S EURL, Limalonges, France
-      details: |
-        Development of multiple Qt tools and software using QML or QWidgets. Helped start-ups to release their IoT device by producing good firmware.
-          - ARM Cortex-M4 / Arduino / Raspberry PI expert. Sensors integration, device driver, low leveing programming
-          - QT/QML: various embedded, kiosk and desktop applications for Industrial and entertainment customers
-    - role: Firmware leader
-      time: 2010-2017
-      company: Itron, Poitiers
-      details:
-        Development of several meters based on DLMS/Cosem protocol. Firmware design (UML/C++) on microcontroller (ARM Cortex-M) 
-        and management of a team of developers. Experienced in system use cases and certification processes (MID, Cosem Test Tool, utility test tools)
-    - role: Firmware developer
-      time: 2004-2009
-      company: Enerdis - Chauvin-Arnoux Group, Paris
-      details: |
-        Development of power monitors, data loggers and process transducers. Very good knowledge of network topologies and metrology computing.
-          - Metrology
-          - DSP
+    title: Experiences
+    info:
+      - role: C/C++/Logic/Process Teacher
+        time: 2022 - Present
+        company: SUPINFO (Computer Engineering School)
+        details: |
+          Teacher of C, C++, computer logic and processes
+      - role: Freelance developer
+        time: 2018 - Present
+        company: D8S EURL, Limalonges, France
+        details: |
+          Development of multiple Qt tools and software using QML or QWidgets. Helped start-ups to release their IoT device by producing good firmware.
+            - ARM Cortex-M4 / Arduino / Raspberry PI expert. Sensors integration, device driver, low leveing programming
+            - QT/QML: various embedded, kiosk and desktop applications for Industrial and entertainment customers
+      - role: Firmware leader
+        time: 2010-2017
+        company: Itron, Poitiers
+        details:
+          Development of several meters based on DLMS/Cosem protocol. Firmware design (UML/C++) on microcontroller (ARM Cortex-M) 
+          and management of a team of developers. Experienced in system use cases and certification processes (MID, Cosem Test Tool, utility test tools)
+      - role: Firmware developer
+        time: 2004-2009
+        company: Enerdis - Chauvin-Arnoux Group, Paris
+        details: |
+          Development of power monitors, data loggers and process transducers. Very good knowledge of network topologies and metrology computing.
+            - Metrology
+            - DSP
 
 projects:
     title: Projects
